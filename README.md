@@ -32,13 +32,6 @@
    Microservices architecture with **FastAPI + Next.js + MySQL**.  
 ---
 
-## 📊 GitHub Stats
-
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=dark&hide_border=true&count_private=true)  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=dark&hide_border=true&langs_count=6)
-
----
-
 ## 🌱 Currently Exploring
 - **Web3 Security**  
 - **Real-time APIs with WebSockets**  
