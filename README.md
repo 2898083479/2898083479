@@ -26,7 +26,6 @@
 
 1. **[Web3 DApp](https://github.com/yourusername/web3-project)**  
    Decentralized app built with **Next.js + Solidity + Tailwind**.  
-   ![](https://img.shields.io/github/stars/yourusername/web3-project?style=flat)
 
 2. **[Full-Stack SaaS](https://github.com/yourusername/saas-project)**  
    Microservices architecture with **FastAPI + Next.js + MySQL**.  
