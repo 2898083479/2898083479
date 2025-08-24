@@ -1,4 +1,4 @@
-# 👋 Hi, I'm [Ethan Wang]
+# 👋 Hi, I'm Ethan Wang
 
 **🚀 Full-Stack Developer | Web3 Enthusiast**  
 📍 Based in [Sheng Zhen]  
