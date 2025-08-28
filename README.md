@@ -6,15 +6,16 @@
 
 ## 🛠 Tech Stack
 
-### **Frontend & Web3**
+### **Frontend**
 ![](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
 ![](https://img.shields.io/badge/React_Query-FF4154?style=for-the-badge&logo=react-query&logoColor=white)
 ![](https://img.shields.io/badge/Zustand-764ABC?style=for-the-badge&logo=redux&logoColor=white)
 ![](https://img.shields.io/badge/TailwindCSS-06B6D4?style=for-the-badge&logo=tailwind-css&logoColor=white)
 ![](https://img.shields.io/badge/Shadcn/ui-111827?style=for-the-badge&logo=radix-ui&logoColor=white)
+
+### **Web3**
 ![](https://img.shields.io/badge/Solidity-363636?style=for-the-badge&logo=solidity&logoColor=white)
 ![](https://img.shields.io/badge/Hardhat-FCC624?style=for-the-badge&logo=ethereum&logoColor=black)
-
 
 ### **Backend**
 ![](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
