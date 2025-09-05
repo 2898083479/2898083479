@@ -16,6 +16,7 @@
 ### **Web3**
 ![](https://img.shields.io/badge/Solidity-363636?style=for-the-badge&logo=solidity&logoColor=white)
 ![](https://img.shields.io/badge/Hardhat-FCC624?style=for-the-badge&logo=ethereum&logoColor=black)
+![](https://img.shields.io/badge/Ethers.js-2536EC?style=for-badge&logo=ethers&logoColor=white)
 
 ### **Backend**
 ![](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
