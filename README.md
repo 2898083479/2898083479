@@ -42,7 +42,7 @@
 ## 🌱 Currently Exploring
 - **Web3 Security**  
 - **Real-time APIs with WebSockets**  
-- **Optimizing Next.js + FastAPI stacks**  
+- **Optimizing Next.js + Node.js stacks**  
 - **CSP Security Group Policy**  
 
 ⭐ **Fun Fact:** `await myInterests([ "Crypto", "Open Source", "Rust (soon!)" ]);`
