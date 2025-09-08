@@ -44,5 +44,3 @@
 - **Real-time APIs with WebSockets**  
 - **Optimizing Next.js + Node.js stacks**  
 - **CSP Security Group Policy**  
-
-⭐ **Fun Fact:** `await myInterests([ "Crypto", "Open Source", "Rust (soon!)" ]);`
