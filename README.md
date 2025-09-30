@@ -37,10 +37,3 @@
 ![](https://img.shields.io/badge/Husky-1D1D1D?style=for-the-badge&logo=husky&logoColor=white)
 
 
----
-
-## 🌱 Currently Exploring
-- **Web3 Security**  
-- **Real-time APIs with WebSockets**  
-- **Optimizing Next.js + Node.js stacks**  
-- **CSP Security Group Policy**  
