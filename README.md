@@ -37,4 +37,4 @@
 ![](https://img.shields.io/badge/Webpack-8DD6F9?style=for-the-badge&logo=webpack&logoColor=black)
 ![](https://img.shields.io/badge/Husky-1D1D1D?style=for-the-badge&logo=husky&logoColor=white)
 
-Now, i am learning rust, lol!
+Now, I am learning rust, lol!
