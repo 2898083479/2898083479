@@ -41,3 +41,6 @@
 
 
 Now, I am learning rust, lol!
+
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https://github.com/你的GitHub用户名&count_bg=%2379C83D&title_bg=%23555555&icon=github.svg&title=visits&edge_flat=false)](https://hits.seeyoufarm.com)
+
