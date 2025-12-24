@@ -1,7 +1,7 @@
 # 👋 Hi, I'm Ethan Wang
 
 **🚀 Web2 Full-Stack Developer | Web3 Frontend Developer**  
-📍 Based in [Sheng Zhen]  
+📍 Based in [Shen Zhen]  
 ---
 
 ## 🛠 Tech Stack
