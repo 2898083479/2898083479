@@ -40,7 +40,7 @@
 ![](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
 
 
-Now, I am learning rust, lol!
+Now, I am working in Ai agent, learning langchain and langgraph!
 
 ![](https://komarev.com/ghpvc/?username=stillNotEthan)
 
